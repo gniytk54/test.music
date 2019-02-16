@@ -1,0 +1,6 @@
+owner=539169968328278051
+prefix='
+game=Œ–‰Ì œ«∆„« ⁄·Ï „Õ„· «·«” À‰«¡
+stayinchannel=true
+songinstatus=false
+token=NTQ2MzE4NDQxODUwNzMyNTQ1.D0meOQ.NJOfzzxZzav3_Kl2whiEuGTFYjY
